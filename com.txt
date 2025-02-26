@@ -1,3 +1,5 @@
 git add - for adding files
 git add . - add all files in the directory
 git add "*.txt" - add all txt extensions files
+git commit - for commit the changes
+git push - we push the code to the github repository
