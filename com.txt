@@ -1,0 +1,3 @@
+git add - for adding files
+git add . - add all files in the directory
+git add "*.txt" - add all txt extensions files
