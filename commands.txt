@@ -1,0 +1,4 @@
+git add -for adding the files
+git status - for checking the git
+git clone - clone the git by using https or ssh key
+git commit - for commiting the files with messages
